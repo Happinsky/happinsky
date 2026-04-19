@@ -13,6 +13,3 @@ I am an **Automation and Robotics student** at Poznań University of Technology.
 - **Robot Arm Project (In Progress)** – Currently planning to design and prototype a custom robotic arm to practice kinematics and control systems.
 - **Server Management** – Managing Linux-based VPS environments for high-performance applications.
 
-### 📫 How to reach me:
-- **Email:** kamil.szymkowiak2004@gmail.com
-- **Location:** Poznań, Poland
